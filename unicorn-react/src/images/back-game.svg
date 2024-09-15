@@ -1,0 +1,28 @@
+<svg width="140" height="114" viewBox="0 0 140 114" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g clip-path="url(#clip0_1453_7750)">
+        <rect width="272" height="171" transform="matrix(0 -1 1 0 -16 193)" fill="#F0EBE6"/>
+        <path d="M-20.8094 109.472L159.275 109.472" stroke="#C1CBCF" stroke-width="0.495085" stroke-miterlimit="10"/>
+        <path d="M-20.8094 93.9449L159.275 93.9449" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M-20.8094 77.8819L159.275 77.8819" stroke="#C1CBCF" stroke-width="0.495085" stroke-miterlimit="10"/>
+        <path d="M-20.8094 62.3543L159.275 62.3543" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M-20.8094 46.8268L159.275 46.8268" stroke="#C1CBCF" stroke-width="0.495085" stroke-miterlimit="10"/>
+        <path d="M-20.8094 31.2992L159.275 31.2992" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M-20.8094 15.2362L159.275 15.2362" stroke="#C1CBCF" stroke-width="0.495085" stroke-miterlimit="10"/>
+        <path d="M-20.8094 -0.291336L159.275 -0.291336" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M127.213 -78.4646L127.213 193" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M112.25 -78.4646L112.25 193" stroke="#C1CBCF" stroke-width="0.50226" stroke-miterlimit="10"/>
+        <path d="M96.7531 -78.4646L96.7531 193" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M81.2562 -78.4646L81.2562 193" stroke="#C1CBCF" stroke-width="0.50226" stroke-miterlimit="10"/>
+        <path d="M66.2938 -78.4646L66.2938 193" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M50.7969 -78.4646L50.7969 193" stroke="#C1CBCF" stroke-width="0.50226" stroke-miterlimit="10"/>
+        <path d="M35.3 -78.4646L35.3 193" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M19.8031 -78.4646L19.8031 193" stroke="#C1CBCF" stroke-width="0.50226" stroke-miterlimit="10"/>
+        <path d="M4.84064 -78.4646L4.84064 193" stroke="#C1CBCF" stroke-width="0.717514" stroke-miterlimit="10" stroke-dasharray="1.44 1.44"/>
+        <path d="M-16 -78.4646L-16 193H155L155 -78.4646H-16Z" stroke="#C1CBCF" stroke-width="0.50226" stroke-miterlimit="10"/>
+    </g>
+    <defs>
+        <clipPath id="clip0_1453_7750">
+            <rect width="272" height="171" fill="white" transform="matrix(0 -1 1 0 -16 193)"/>
+        </clipPath>
+    </defs>
+</svg>
