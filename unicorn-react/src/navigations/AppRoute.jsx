@@ -39,8 +39,7 @@ const AppRoute = () => {
     return (
         <Router>
             {
-                <Routing/>
-                // isLoggedIn ?<Routing/>: <AuthRouting/>
+                isLoggedIn ?<Routing/>: <AuthRouting/>
             }
         </Router>
     )

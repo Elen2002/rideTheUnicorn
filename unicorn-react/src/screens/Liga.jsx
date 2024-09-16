@@ -15,14 +15,18 @@ function Liga() {
     const [userData, setUserData] = useState([])
     let ids = []
     const [currentIndex, setCurrentIndex] = useState(0);
-    let clors = ['#6B7D90','#B15A28', "#E1CB09", '#C6C6C6', '#768CA3', '#00C2DA', '#462DF0', '#008C78', '#FF66B0', '#A810FF', '#28DBEE', '#3E60FF']
+    let colors = ['#6B7D90','#B15A28', "#E1CB09", '#C6C6C6', '#768CA3', '#00C2DA', '#462DF0', '#008C78', '#FF66B0', '#A810FF', '#28DBEE', '#3E60FF']
+    function getRandomColor(colors) {
+        let randomIndex = Math.floor(Math.random() * colors.length);
+        return colors[randomIndex];
+    }
     const stylesElips = {
         position: 'absolute',
         width: '268px',
         height: '323px',
         left: 'calc(50% - 268px / 2)',
         top: 'calc(50% - 323px / 2)',
-        background: '#B15A28',
+        background: getRandomColor(colors),
         filter: 'blur(75px)',
     };
     const nextSlide = () => {
